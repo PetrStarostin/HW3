@@ -42,3 +42,14 @@
 // int z2 = Convert.ToInt32(Console.ReadLine());
 // Console.WriteLine($"Длинна состовляет: {DistanceLine(x1,y1,z1,x2,y2,z2)}");
 
+//Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N
+// void Sqrtnumbers(int volume)
+// {
+//     for(int i = 1 ; i <= volume ; i++)
+//     {
+//         Console.Write(i*i*i + " ");
+//     }
+// }
+// Console.Write("Введите число: ");
+// int number = Convert.ToInt32(Console.ReadLine());
+// Sqrtnumbers(number);
